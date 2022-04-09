@@ -51,7 +51,7 @@
     "cordova-plugin-googleplus": "^8.2.1",
     "cordova-plugin-ionic-keyboard": "^2.2.0",
     "core-js": "^2.5.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "ngrx-store-localstorage": "^8.0.0",
     "ngx-take-until-destroy": "^5.4.0",
     "ngx-uploader": "^7.1.0",
